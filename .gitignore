@@ -1,0 +1,16 @@
+*.*
+
+# readme
+!README.md
+
+# 场景
+!*.tscn
+
+# 脚本
+!*.gd
+
+# 字体
+!*.tres
+
+# 项目
+!project.godot
